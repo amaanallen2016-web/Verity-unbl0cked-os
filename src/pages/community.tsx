@@ -1,4 +1,4 @@
-import { ArrowRight, Users, Sparkles, Globe2, MessageCircleMore } from 'lucide-react';
+import { ArrowRight, Users, Sparkles, Globe2 } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const platforms = ['Discord', 'YouTube', 'GitHub', 'X', 'Reddit', 'TikTok'];
