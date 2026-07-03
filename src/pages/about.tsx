@@ -1,4 +1,4 @@
-import { ArrowRight, Sparkles, Clock3 } from 'lucide-react';
+import { ArrowRight, Clock3 } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const features = ['Immersive portal design', 'High-speed entertainment bundles', 'Community-first conversation', 'AI-powered discovery'];

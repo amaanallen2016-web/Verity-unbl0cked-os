@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react';
-import { SendHorizonal, Sparkles } from 'lucide-react';
+import { SendHorizonal } from 'lucide-react';
 
 interface Message {
   id: number;
